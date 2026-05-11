@@ -124,7 +124,7 @@ Le script charge automatiquement les données depuis le package `plm`, estime le
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un cours d'**économétrie des données de panel** (Master 1 Économie).
+Projet réalisé dans le cadre d'un cours d'**économétrie des données de panel** (Master 1 Économétrie et Data Science).
 
 ---
 
